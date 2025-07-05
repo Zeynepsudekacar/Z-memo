@@ -12,6 +12,19 @@ Zeynep is a project that creates a decentralized NFT space for preserving and pa
 - **Privacy with ZK-Proofs**: Use Zircuit’s zero-knowledge proofs to protect sensitive content while proving ownership.
 
 ## How It Works
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 1. Minting an NFT
 - A user inputs a thought (e.g., "Movie idea: Time-traveling chef") or memory (e.g., "Trip with friend X") via a simple interface.
 - The content is minted as an NFT on Zircuit, linked to the creator’s wallet.
