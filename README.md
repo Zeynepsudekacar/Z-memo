@@ -1,7 +1,7 @@
 
 ## Overview
 
-Zeynep is a project that creates a decentralized NFT space for preserving and patent personal thoughts, memories, and ideas using Zircuit’s zero-knowledge rollup technology. Leverage account abstraction to enable gasless interactions, and integrate a quarantine layer to protect against spam and stealimg. This platform empowers creators to mint unique NFTs for their concepts (e.g., a movie idea) or shared memories (e.g., a story with a friend), allowing others to like, bid, or collaborate without traditional blockchain barriers.
+Zeynep is a social hub made from our thoughs. By creating a decentralized NFT space for presenving and patent using Zircuit tech, we empower creators to mint unique NFTs for their concepts (e.g., a movie idea) or shared memories (e.g., a story with a friend), allowing others to like, bid, or collaborate without traditional blockchain barriers.
 
 ## Features
 - **NFT Minting for Thoughts & Memories**: Create NFTs for original ideas or shared experiences (e.g., a movie plot or a memory with a friend).
