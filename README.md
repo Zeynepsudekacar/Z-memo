@@ -5,8 +5,9 @@ Zeynep is a project that creates a decentralized NFT space for preserving and pa
 
 ## Features
 - **NFT Minting for Thoughts & Memories**: Create NFTs for original ideas or shared experiences (e.g., a movie plot or a memory with a friend).
-- **Account Abstraction**: Enable gasless likes and interactions using Zircuit’s account abstraction tech.
-- **Zircuit Quarantine Layer**: Automatically quarantine and cancel suspicious transactions (e.g., spam or theft attempts) using Zircuit’s SLS.
+- **Scalability on Layer2**: All actions will take place on Layer2, providing low cost and high speed. In this way, the global user experience will be smoothly executed.
+- **Account Abstraction for gassless UX**: Enable gasless likes and interactions using Zircuit’s account abstraction tech.
+- **Protection with Zircuit Quarantine Layer**: Automatically quarantine and cancel suspicious transactions (e.g., spam or theft attempts) using Zircuit’s SLS.
 - **Monetization**: Allow users to bid on or donate to NFTs, fostering a creator economy.
 - **Privacy with ZK-Proofs**: Use Zircuit’s zero-knowledge proofs to protect sensitive content while proving ownership.
 
