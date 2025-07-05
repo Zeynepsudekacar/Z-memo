@@ -1,11 +1,26 @@
 
 ## Overview
 
-Zeynep is a social hub made from our thoughs. By creating a decentralized NFT space for presenving and patent using Zircuit tech, we empower creators to mint unique NFTs for their concepts (e.g., a movie idea) or shared memories (e.g., a story with a friend), allowing others to like, bid, or collaborate without traditional blockchain barriers.
+People say memories last forever, but they can fade over time. Blockchain gives us a way to make them last forever, like a digital safe. Why not use this to save the most important things in our minds and on the chain? Every memory belongs to the person who lived it, and that’s where NFTs come in—they give you ownership. **Just like every book has a cover, every memory gets its own NFT to show it’s yours and keeps it special.**
+
+People scroll through social media and see only perfect lives, which makes them feel unhappy with their own. But real life isn’t like that—full of ups and downs. They need a place where they can read and connect with real stories. Z-memo is here to fill that gap.
+
+You might wonder, **“Why would people care to read or support someone else’s memories?”** Here are strong reasons that make Z-memo special:
+
+Empathy & Human CuriosityPeople are naturally curious about others’ lives, choices, and feelings. Unlike made-up stories, real memories show the raw, honest side of life. This gives readers a chance to:
+
+Feel empathy by connecting with someone else’s experience.
+Learn new perspectives or life lessons.
+Find inspiration to handle their own emotions.
+as our motto: 
+
+
+Zeynep is a social hub built to share and preserve real memories. Using Zircuit’s technology, we let creators mint unique NFTs from their personal memories (like a special day with a friend or a tough moment overcome). Others can like, bid on, or collaborate on these memories without the usual blockchain hassles, thanks to Zircuit’s fast and scalable tech.
+
 
 ## Features
-- **NFT Minting for Thoughts & Memories**: Enables users to transform their memories and thoughts—such as a movie plot idea or a shared experience with a friend—into unique, on-chain ownership NFT. NFTs, minted on the Zircuit blockchain, represent exclusive digital ownership.
-- **Scalability on Layer2**: All actions will take place on Layer2, providing low cost and high speed. In this way, the global user experience will be smoothly executed.
+- **NFT Minting for Memories**: Lets users turn their real memories—such as a special day with a friend or a personal challenge overcome—into unique, on-chain NFTs. Minted on the Zircuit blockchain, these NFTs represent exclusive digital ownership of life’s authentic moments.
+- **Scalability on Layer2**: All actions will take place on Layer2, providing low cost and high speed. In this way, the user experience will be smoothly executed.
 - **Account Abstraction for gassless UX**: Enable gasless likes and interactions using Zircuit’s account abstraction tech.
 - **Protection with Zircuit Quarantine Layer**: Automatically quarantine and cancel suspicious transactions (e.g., spam or theft attempts) using Zircuit’s SLS.
 - **Monetization**: Allow users to bid on or donate to NFTs, fostering a creator economy.
