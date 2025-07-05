@@ -10,7 +10,7 @@ Zeynep is a project that creates a decentralized NFT space for preserving and pa
 - **Protection with Zircuit Quarantine Layer**: Automatically quarantine and cancel suspicious transactions (e.g., spam or theft attempts) using Zircuit’s SLS.
 - **Monetization**: Allow users to bid on or donate to NFTs, fostering a creator economy.
 - **Privacy with ZK-Proofs**: Use Zircuit’s zero-knowledge proofs to protect sensitive content while proving ownership.
-
+![Flow](Adsız-2024-12-21-1717.png)
 ## How It Works
 
 
