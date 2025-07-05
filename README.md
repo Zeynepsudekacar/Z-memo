@@ -1,5 +1,5 @@
 
-## Overview
+**#Z-memo**
 
 People say memories last forever, but they can fade over time. Blockchain gives us a way to make them last forever, like a digital safe. Why not use this to save the most important things in our minds and on the chain? Every memory belongs to the person who lived it, and that’s where NFTs come in—they give you ownership. **Just like every book has a cover, every memory gets its own NFT to show it’s yours and keeps it special.**
 
@@ -9,13 +9,20 @@ You might wonder, **“Why would people care to read or support someone else’s
 
 Empathy & Human CuriosityPeople are naturally curious about others’ lives, choices, and feelings. Unlike made-up stories, real memories show the raw, honest side of life. This gives readers a chance to:
 
-Feel empathy by connecting with someone else’s experience.
+**Feel empathy by connecting with someone else’s experience.**
 Learn new perspectives or life lessons.
 Find inspiration to handle their own emotions.
-as our motto: 
+
+**Collecting Dimension (NFT Unique Selling Point)**
+Mint memories as permanent NFTs on the blockchain. People can add:
+-Memories that inspire them,
+-Stories that touch their hearts,
+-Shares that reflect their identity,
+to their collections, showcasing personal value and identity—like collecting art or a signed book from a favorite author.
 
 
-Zeynep is a social hub built to share and preserve real memories. Using Zircuit’s technology, we let creators mint unique NFTs from their personal memories (like a special day with a friend or a tough moment overcome). Others can like, bid on, or collaborate on these memories without the usual blockchain hassles, thanks to Zircuit’s fast and scalable tech.
+## Overview
+Z-memo is a social hub built to share and preserve real memories. Using Zircuit’s technology, we let creators mint unique NFTs from their personal memories (like a special day with a friend or a tough moment overcome). Others can like, bid on, or collaborate on these memories without the usual blockchain hassles, thanks to Zircuit’s fast and scalable tech.
 
 
 ## Features
@@ -25,47 +32,27 @@ Zeynep is a social hub built to share and preserve real memories. Using Zircuit�
 - **Protection with Zircuit Quarantine Layer**: Automatically quarantine and cancel suspicious transactions (e.g., spam or theft attempts) using Zircuit’s SLS.
 - **Monetization**: Allow users to bid on or donate to NFTs, fostering a creator economy.
 - **Privacy with ZK-Proofs**: Use Zircuit’s zero-knowledge proofs to protect sensitive content while proving ownership.
-![Flow](Adsız-2024-12-21-1717.png)
+
 ## How It Works
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### 1. Minting an NFT
-- A user inputs a thought (e.g., "Movie idea: Time-traveling chef") or memory (e.g., "Trip with friend X") via a simple interface.
-- The content is minted as an NFT on Zircuit, linked to the creator’s wallet.
-- Example: `nft.mint("Time-traveling chef", creatorAddress)`.
+-A user shares a real memory (e.g., "My first hike with a friend" or "Overcoming a tough day") through a simple interface.
+-The memory is minted as a unique NFT on the Zircuit blockchain, linked to the creator’s wallet.
+-Example: nft.mint("My first hike with a friend", creatorAddress).
+
 
 ### 2. Account Abstraction
-- Users can like or interact with NFTs without paying gas fees, thanks to Zircuit’s account abstraction.
-- Transactions are batched, reducing costs for end-users.
+-Users can like or interact with memory NFTs without paying gas fees, thanks to Zircuit’s account abstraction.
+-Transactions are batched, keeping costs low for everyone.
+
 
 ### 3. Quarantine Mechanism
-- Suspicious transactions (e.g., rapid minting or unauthorized access) are managed by Zircuit’s sequencer.
-- Prove it is not the same person to deploy the ownership and cancel the tx 
+-Suspicious transactions (e.g., rapid minting or unauthorized access) are handled by Zircuit’s sequencer.
+-Proof that it’s not the same person is required to confirm ownership and cancel the transaction.
+
 
 ### 4. Monetization & Collaboration
-- Others can bid on NFTs (e.g., "Offer 0.1 ETH for movie idea") or donate.
-- Creators and co-creators (e.g., friend X) split proceeds.
+-Others can bid on memory NFTs (e.g., "Offer 0.1 ETH for a special memory") or donate to support the creator.
+-Creators and co-creators (e.g., the friend in the memory) share the proceeds.
 
-## Tech Stack
-- **Blockchain**: Zircuit (zkRollup testnet)
-- **Smart Contracts**: Solidity
-- **Frontend**: React.js
-- **Account Abstraction**: Zircuit’s native support
-- **ZK-Proofs**: Zİrcuit Roll_up (circom for demo)
-- **Testing**: Zircuit testnet
 
-## Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/ThoughtNFT-Zircuit.git
