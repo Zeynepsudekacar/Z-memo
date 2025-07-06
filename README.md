@@ -52,7 +52,7 @@ Z-memo is a social hub built to share and preserve real memories. Using Zircuitâ
 
 
 ### 4. Monetization & Collaboration
--Users can like each other's memory NFTs (e.g., "Offer 0.1 ETH for a special memory") or donate support the creator.
+-Users can interact with each other's memory NFTs (e.g., "Offer 0.1 ETH for a special memory") and donate support the creator.
 -Creators and co-creators (e.g., the friend in the memory) share the proceeds.
 
 
