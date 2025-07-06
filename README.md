@@ -60,7 +60,10 @@ Z-memo is a social hub built to share and preserve real memories. Using Zircuitâ
 
 
 
-**Tokenomics**
+
+
+
+###**TOKENOMICS**
 
 
 <img width="710" alt="Screenshot 2025-07-06 at 05 55 36" src="https://github.com/user-attachments/assets/bc54e512-3717-4041-8497-f90b289928aa" />
