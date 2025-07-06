@@ -67,8 +67,6 @@ Z-memo is a social hub built to share and preserve real memories. Using Zircuitâ
 ### **DEMO VIDEO**
 
 
-https://github.com/user-attachments/assets/67774f5a-cf8c-4e7a-bf90-a7305ca40871
-
 
 
 ### **TOKENOMICS**
