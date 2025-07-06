@@ -69,6 +69,10 @@ Z-memo is a social hub built to share and preserve real memories. Using Zircuitâ
 
 
 
+https://github.com/user-attachments/assets/a88406cc-a098-49e8-b642-7ab13da1e833
+
+
+
 ### **TOKENOMICS**
 Ticker is $MEMO
 
