@@ -62,7 +62,7 @@ Z-memo is a social hub built to share and preserve real memories. Using Zircuitâ
 ### **PITCH DECK**
 
 [
-](https://www.figma.com/proto/ekl6RDuaLDMf3596Jl7IML/deck?page-id=6308%3A305&node-id=6308-318&p=f&viewport=-31%2C390%2C0.08&t=FnNLgCinp76CI9Bi-1&scaling=contain&content-scaling=fixed)
+](https://www.figma.com/proto/ekl6RDuaLDMf3596Jl7IML/deck?page-id=6308%3A305&node-id=6308-318&p=f&viewport=443%2C399%2C0.04&t=GPvzkauYJuFe9m9O-1&scaling=contain&content-scaling=fixed) 
 
 ### **DEMO VIDEO**
 
